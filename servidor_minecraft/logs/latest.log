@@ -106,3 +106,18 @@
 [19:47:41] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/11582, uuid='5dfc989f-3eae-4360-ab17-d2a223ca667c', l='ServerLevel[world]', x=-678.20, y=-103.69, z=-371.74, cpos=[-43, -24], tl=3007, v=true] died: Rare Pillager was slain by Polowas
 [19:47:44] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/11417, uuid='95855c87-a60e-48a3-9f4c-b966cc799db3', l='ServerLevel[world]', x=-673.81, y=-104.00, z=-368.36, cpos=[-43, -24], tl=3506, v=true] died: Rare Pillager was slain by Polowas
 [19:48:18] [Server thread/INFO]: Polowas has reached the goal [Postmortal]
+[19:49:18] [Server thread/INFO]: Named entity Zombie['Epic Zombie'/13002, uuid='0a305884-93fa-42f0-b311-5028855e88bc', l='ServerLevel[world]', x=-666.61, y=-116.00, z=-480.64, cpos=[-42, -31], tl=1251, v=true] died: Epic Zombie was slain by Polowas
+[19:50:51] [Server thread/INFO]: Named entity Slime['Uncommon Slime'/14050, uuid='27d29a39-66f8-471f-8833-505792121465', l='ServerLevel[world]', x=-662.37, y=-108.00, z=-423.19, cpos=[-42, -27], tl=160, v=true] died: Uncommon Slime was slain by Polowas
+[19:51:40] [Server thread/INFO]: Named entity Zombie['Uncommon Zombie'/14554, uuid='11df7730-a0bb-4699-b602-0eab9f07a9a9', l='ServerLevel[world]', x=-662.46, y=-105.00, z=-372.15, cpos=[-42, -24], tl=243, v=true] died: Uncommon Zombie was slain by Polowas
+[19:52:35] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/14928, uuid='3379e909-19bb-412f-9a93-632cc01866b1', l='ServerLevel[world]', x=-717.21, y=-98.50, z=-366.33, cpos=[-45, -23], tl=410, v=true] died: Rare Pillager was slain by Polowas
+[19:52:55] [Server thread/INFO]: Named entity Pillager['Uncommon Pillager'/15105, uuid='20323665-7ebf-4bcf-8aaa-b26bb128430a', l='ServerLevel[world]', x=-720.41, y=-98.00, z=-368.62, cpos=[-46, -24], tl=353, v=true] died: Uncommon Pillager was slain by Polowas
+[19:53:20] [Server thread/INFO]: Named entity Skeleton['Uncommon Skeleton'/15227, uuid='0d1b2de8-4da1-47d7-b2b0-c436efe17aa7', l='ServerLevel[world]', x=-723.72, y=-97.00, z=-371.06, cpos=[-46, -24], tl=463, v=true] died: Uncommon Skeleton was slain by Polowas
+[19:54:00] [Server thread/INFO]: Named entity Skeleton['Uncommon Skeleton'/15473, uuid='8db045f6-2f64-4da2-9de6-da3fe68ea282', l='ServerLevel[world]', x=-755.77, y=-94.00, z=-389.58, cpos=[-48, -25], tl=185, v=true] died: Uncommon Skeleton was slain by Polowas
+[19:54:01] [Server thread/WARN]: Skipping Entity with id 
+[19:54:23] [Server thread/INFO]: Polowas withered away while fighting Uncommon Zombified Piglin
+[19:57:11] [Server thread/INFO]: Polowas was killed by magic while trying to escape Uncommon Drowned
+[19:57:26] [Async Chat Thread - #11/INFO]: <AWE5> bro
+[19:57:58] [Async Chat Thread - #11/INFO]: <AWE5> tenes tus cosas?
+[19:58:07] [Server thread/WARN]: Skipping Entity with id 
+[19:58:38] [Server thread/INFO]: AWE5 lost connection: Disconnected
+[19:58:38] [Server thread/INFO]: AWE5 left the game
