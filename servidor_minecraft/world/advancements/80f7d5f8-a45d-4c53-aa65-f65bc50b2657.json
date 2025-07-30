@@ -474,9 +474,13 @@
       "minecraft:wither_skeleton": "2025-07-29 22:23:52 +0000",
       "minecraft:ravager": "2025-07-29 22:27:25 +0000",
       "minecraft:cave_spider": "2025-07-29 02:51:13 +0000",
+      "minecraft:piglin": "2025-07-30 19:09:27 +0000",
       "minecraft:vindicator": "2025-07-29 22:24:52 +0000",
       "minecraft:enderman": "2025-07-29 22:33:33 +0000",
+      "minecraft:magma_cube": "2025-07-30 18:56:05 +0000",
+      "minecraft:endermite": "2025-07-30 19:12:06 +0000",
       "minecraft:spider": "2025-07-29 02:19:58 +0000",
+      "minecraft:piglin_brute": "2025-07-30 19:09:28 +0000",
       "minecraft:zombie": "2025-07-29 01:58:01 +0000",
       "minecraft:creeper": "2025-07-29 20:18:49 +0000",
       "minecraft:drowned": "2025-07-29 22:22:26 +0000",
@@ -2655,10 +2659,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-30 03:36:17 +0000",
       "minecraft:nether_wastes": "2025-07-30 18:50:12 +0000",
+      "minecraft:soul_sand_valley": "2025-07-30 19:11:53 +0000",
       "minecraft:basalt_deltas": "2025-07-30 18:52:08 +0000",
       "minecraft:warped_forest": "2025-07-30 18:51:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
@@ -2684,12 +2689,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-07-30 18:50:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-30 18:50:19 +0000"
@@ -2699,6 +2698,108 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-07-30 18:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-30 18:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-07-30 18:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-30 18:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-30 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-07-30 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-30 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-07-30 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-07-30 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-30 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-30 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-07-30 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-07-30 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-30 18:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-30 18:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-30 18:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-30 18:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-30 19:09:14 +0000"
     },
     "done": true
   },

@@ -2665,7 +2665,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-07-30 02:48:25 +0000",
-      "minecraft:nether_wastes": "2025-07-30 03:05:58 +0000"
+      "minecraft:nether_wastes": "2025-07-30 03:05:58 +0000",
+      "minecraft:basalt_deltas": "2025-07-30 19:14:01 +0000"
     },
     "done": false
   },
@@ -2798,6 +2799,12 @@
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-30 03:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-30 19:15:23 +0000"
     },
     "done": true
   },
