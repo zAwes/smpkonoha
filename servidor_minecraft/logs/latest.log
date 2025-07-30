@@ -121,3 +121,6 @@
 [19:58:07] [Server thread/WARN]: Skipping Entity with id 
 [19:58:38] [Server thread/INFO]: AWE5 lost connection: Disconnected
 [19:58:38] [Server thread/INFO]: AWE5 left the game
+[20:01:28] [Server thread/INFO]: Named entity Drowned['Uncommon Drowned'/18562, uuid='c4225229-3557-499c-9387-36cc58653a98', l='ServerLevel[world]', x=-779.00, y=-90.72, z=-382.87, cpos=[-49, -24], tl=1764, v=true] died: Uncommon Drowned was slain by Polowas
+[20:02:27] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>PotionContents[potion=Optional.empty, customColor=Optional[6184036], customEffects=[effect.minecraft.mining_fatigue x 2, Duration: 80, effect.minecraft.levitation x 5, Duration: 40]]}' to item: 'Item stack with stack size of 99 was larger than maximum: 64'
+[20:05:27] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/18887, uuid='eb3d99a1-6515-4d18-a4dd-ceb958cdf659', l='ServerLevel[world]', x=-930.47, y=-89.00, z=-294.29, cpos=[-59, -19], tl=3672, v=true] died: Rare Pillager was squashed by a falling block
