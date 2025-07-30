@@ -77,3 +77,16 @@
 [19:25:17] [Server thread/INFO]: LouCarrion has made the advancement [A Terrible Fortress]
 [19:25:47] [Server thread/INFO]: LouCarrion has made the advancement [Into Fire]
 [19:28:07] [Server thread/INFO]: AWE5 has made the advancement [Who is Cutting Onions?]
+[19:32:24] [Async Chat Thread - #4/INFO]: <AWE5> asd
+[19:32:26] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:34:07] [Async Chat Thread - #6/INFO]: <LouCarrion> vebgo
+[19:34:09] [Server thread/INFO]: LouCarrion lost connection: Disconnected
+[19:34:09] [Server thread/INFO]: LouCarrion left the game
+[19:36:16] [User Authenticator #2/INFO]: UUID of player Polowas is a2b56618-1aef-407b-afe8-1edfbeb53a68
+[19:36:19] [Server thread/INFO]: Polowas joined the game
+[19:36:19] [Server thread/INFO]: Polowas[/127.22.55.253:50755] logged in with entity id 7773 at ([world]-647.3000000119209, -101.0, -397.361047048262)
+[19:36:25] [Async Chat Thread - #8/INFO]: <AWE5> <LouCarrion> 25 -658
+[19:36:32] [Async Chat Thread - #8/INFO]: <Polowas> ?
+[19:36:36] [Async Chat Thread - #8/INFO]: <AWE5> fort
+[19:37:39] [Server thread/INFO]: Named entity Drowned['Uncommon Drowned'/8518, uuid='d948b81a-fcc3-4dda-9134-a580bd356a52', l='ServerLevel[world]', x=-655.55, y=-110.00, z=-436.62, cpos=[-41, -28], tl=109, v=true] died: Uncommon Drowned was slain by Polowas
+[19:37:39] [Server thread/WARN]: Skipping Entity with id 
