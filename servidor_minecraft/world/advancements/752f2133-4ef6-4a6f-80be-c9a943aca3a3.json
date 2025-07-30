@@ -718,6 +718,8 @@
       "minecraft:witch": "2025-07-29 02:57:32 +0000",
       "minecraft:wither_skeleton": "2025-07-29 18:01:50 +0000",
       "minecraft:ravager": "2025-07-29 18:03:10 +0000",
+      "minecraft:hoglin": "2025-07-30 19:21:32 +0000",
+      "minecraft:piglin": "2025-07-30 19:16:00 +0000",
       "minecraft:vindicator": "2025-07-29 18:17:18 +0000",
       "minecraft:enderman": "2025-07-29 04:11:02 +0000",
       "minecraft:endermite": "2025-07-30 02:59:02 +0000",
@@ -2666,6 +2668,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-30 02:48:25 +0000",
       "minecraft:nether_wastes": "2025-07-30 03:05:58 +0000",
+      "minecraft:soul_sand_valley": "2025-07-30 19:24:28 +0000",
       "minecraft:basalt_deltas": "2025-07-30 19:14:01 +0000"
     },
     "done": false
@@ -2805,6 +2808,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-07-30 19:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-30 19:25:17 +0000"
     },
     "done": true
   },
