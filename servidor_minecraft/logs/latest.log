@@ -127,3 +127,10 @@
 [20:11:17] [Server thread/WARN]: Polowas moved too quickly! 36.46143929024788,-7.0,31.136335812439427
 [20:11:52] [Server thread/INFO]: Polowas was killed by magic while trying to escape Legendary Pillager
 [20:16:51] [Server thread/INFO]: Villager Villager['Fletcher'/23276, uuid='b38eb0ba-b180-4956-a194-dba423f5c7d0', l='ServerLevel[world]', x=-1032.30, y=76.00, z=74.30, cpos=[-65, 4], tl=683268, v=true] died, message: 'Fletcher was slain by Zombie'
+[20:19:54] [Server thread/INFO]: Polowas lost connection: Disconnected
+[20:19:54] [Server thread/INFO]: Polowas left the game
+[20:25:35] [User Authenticator #3/INFO]: UUID of player LouCarrion is 752f2133-4ef6-4a6f-80be-c9a943aca3a3
+[20:25:36] [Server thread/INFO]: LouCarrion joined the game
+[20:25:36] [Server thread/INFO]: LouCarrion[/127.34.162.246:52247] logged in with entity id 23878 at ([world_nether]55.599141349548056, 54.0, -553.3000000119209)
+[20:27:38] [Server thread/INFO]: LouCarrion lost connection: Disconnected
+[20:27:38] [Server thread/INFO]: LouCarrion left the game
