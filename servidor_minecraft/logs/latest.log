@@ -90,3 +90,19 @@
 [19:36:36] [Async Chat Thread - #8/INFO]: <AWE5> fort
 [19:37:39] [Server thread/INFO]: Named entity Drowned['Uncommon Drowned'/8518, uuid='d948b81a-fcc3-4dda-9134-a580bd356a52', l='ServerLevel[world]', x=-655.55, y=-110.00, z=-436.62, cpos=[-41, -28], tl=109, v=true] died: Uncommon Drowned was slain by Polowas
 [19:37:39] [Server thread/WARN]: Skipping Entity with id 
+[19:39:02] [Server thread/INFO]: Named entity Skeleton['Epic Skeleton'/8609, uuid='2c5f56c3-ee75-4fca-9739-80f0d7144b09', l='ServerLevel[world]', x=-665.67, y=-117.00, z=-480.67, cpos=[-42, -31], tl=1637, v=true] died: Epic Skeleton was slain by Polowas
+[19:41:03] [Server thread/INFO]: AWE5 has made the advancement [A Terrible Fortress]
+[19:41:07] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>PotionContents[potion=Optional.empty, customColor=Optional[6184036], customEffects=[effect.minecraft.mining_fatigue x 2, Duration: 80, effect.minecraft.blindness, Duration: 80, effect.minecraft.wither, Duration: 80]]}' to item: 'Item stack with stack size of 99 was larger than maximum: 64'
+[19:41:51] [Server thread/INFO]: AWE5 has made the advancement [Into Fire]
+[19:42:35] [Server thread/INFO]: Named entity Ravager['Epic Ravager'/10232, uuid='d2138cc3-83c8-495c-8939-a384f2071531', l='ServerLevel[world]', x=-678.16, y=-103.95, z=-386.08, cpos=[-43, -25], tl=1760, v=true] died: Epic Ravager was slain by Polowas
+[19:42:45] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/10214, uuid='ab23d473-b114-4271-8fa3-a8d4d9482a8d', l='ServerLevel[world]', x=-679.59, y=-104.00, z=-374.15, cpos=[-43, -24], tl=1972, v=true] died: Rare Pillager was slain by Polowas
+[19:43:22] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:43:48] [Server thread/WARN]: Skipping Entity with id 
+[19:43:55] [Server thread/INFO]: Named entity Creeper['Uncommon Rocklops'/11071, uuid='f0467533-88ed-4483-9a34-ed9f3290b544', l='ServerLevel[world]', x=-709.67, y=-100.00, z=-373.44, cpos=[-45, -24], tl=136, v=true] died: Uncommon Rocklops was slain by Polowas
+[19:45:11] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>PotionContents[potion=Optional.empty, customColor=Optional[6184036], customEffects=[effect.minecraft.mining_fatigue x 2, Duration: 80, effect.minecraft.blindness, Duration: 80, effect.minecraft.wither, Duration: 80]]}' to item: 'Item stack with stack size of 99 was larger than maximum: 64'
+[19:46:12] [Server thread/INFO]: Named entity ZombifiedPiglin['Uncommon Zombified Piglin'/11440, uuid='7135855b-231f-4338-a8b1-3e4beb120218', l='ServerLevel[world]', x=-677.65, y=-104.00, z=-386.65, cpos=[-43, -25], tl=1604, v=true] died: Uncommon Zombified Piglin was slain by Polowas
+[19:47:15] [Server thread/INFO]: Named entity Pillager['Uncommon Pillager'/11642, uuid='559de3c1-3e34-402d-9cae-f6a78d59a5ac', l='ServerLevel[world]', x=-679.73, y=-104.00, z=-384.73, cpos=[-43, -25], tl=2277, v=true] died: Uncommon Pillager was slain by Polowas
+[19:47:24] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/11735, uuid='04d5388e-3e37-4ec8-8850-18e51f8aed66', l='ServerLevel[world]', x=-677.30, y=-104.00, z=-388.63, cpos=[-43, -25], tl=2173, v=true] died: Rare Pillager was slain by Polowas
+[19:47:41] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/11582, uuid='5dfc989f-3eae-4360-ab17-d2a223ca667c', l='ServerLevel[world]', x=-678.20, y=-103.69, z=-371.74, cpos=[-43, -24], tl=3007, v=true] died: Rare Pillager was slain by Polowas
+[19:47:44] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/11417, uuid='95855c87-a60e-48a3-9f4c-b966cc799db3', l='ServerLevel[world]', x=-673.81, y=-104.00, z=-368.36, cpos=[-43, -24], tl=3506, v=true] died: Rare Pillager was slain by Polowas
+[19:48:18] [Server thread/INFO]: Polowas has reached the goal [Postmortal]
