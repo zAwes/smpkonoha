@@ -207,3 +207,46 @@
 [02:25:39] [Server thread/INFO]: Named entity Skeleton['Uncommon Skeleton'/54007, uuid='7bf3c6e7-b651-49cf-9215-f58c56384f81', l='ServerLevel[world]', x=-1257.54, y=-99.00, z=-35.27, cpos=[-79, -3], tl=434, v=true] died: Uncommon Skeleton was slain by LouCarrion
 [02:26:18] [Server thread/INFO]: Named entity Drowned['Uncommon Drowned'/54536, uuid='9d0fbfa4-7114-4005-8ce4-3b0005b8728b', l='ServerLevel[world]', x=-861.24, y=-103.00, z=-544.15, cpos=[-54, -35], tl=35, v=true] died: Uncommon Drowned was slain by Polowas
 [02:26:23] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>PotionContents[potion=Optional.empty, customColor=Optional[6184036], customEffects=[effect.minecraft.mining_fatigue x 2, Duration: 80, effect.minecraft.blindness, Duration: 80, effect.minecraft.wither, Duration: 80]]}' to item: 'Item stack with stack size of 99 was larger than maximum: 64'
+[02:26:30] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/54632, uuid='87140844-5d45-4012-8421-ce4ecc832dfd', l='ServerLevel[world]', x=-849.86, y=-102.00, z=-530.79, cpos=[-54, -34], tl=149, v=true] died: Rare Pillager was slain by Polowas
+[02:26:58] [Async Chat Thread - #26/INFO]: <LouCarrion> se me borraron los puntos
+[02:27:50] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>PotionContents[potion=Optional.empty, customColor=Optional[6184036], customEffects=[effect.minecraft.mining_fatigue x 2, Duration: 80, effect.minecraft.blindness, Duration: 80, effect.minecraft.wither, Duration: 80]]}' to item: 'Item stack with stack size of 99 was larger than maximum: 64'
+[02:27:56] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/55595, uuid='b2a57fa5-8778-4e81-ac31-6d2b4c3ea7a1', l='ServerLevel[world]', x=-1133.09, y=-79.00, z=128.64, cpos=[-71, 8], tl=118, v=true] died: Rare Pillager was slain by LouCarrion
+[02:28:20] [Async Chat Thread - #28/INFO]: <LouCarrion> xdd
+[02:28:28] [Server thread/INFO]: Polowas lost connection: Disconnected
+[02:28:28] [Server thread/INFO]: Polowas left the game
+[02:28:31] [Async Chat Thread - #29/INFO]: <LouCarrion> sañldkñalsd
+[02:29:01] [User Authenticator #5/INFO]: UUID of player Polowas is a2b56618-1aef-407b-afe8-1edfbeb53a68
+[02:29:02] [Server thread/INFO]: Polowas joined the game
+[02:29:02] [Server thread/INFO]: Polowas[/127.22.55.253:46915] logged in with entity id 57144 at ([world]-675.8670598413541, -106.57170961629372, -328.0967553958501)
+[02:29:14] [Async Chat Thread - #29/INFO]: <AWE5> gordo puto
+[02:29:17] [Async Chat Thread - #29/INFO]: <Polowas> ?
+[02:29:53] [Server thread/INFO]: Named entity Zombie['Uncommon Zombie'/58152, uuid='439cd36f-563e-4b06-a052-61588b15c706', l='ServerLevel[world]', x=-665.83, y=-105.00, z=-376.40, cpos=[-42, -24], tl=270, v=true] died: Uncommon Zombie was slain by Polowas
+[02:30:01] [Async Chat Thread - #29/INFO]: <AWE5> q pasa
+[02:30:08] [Async Chat Thread - #29/INFO]: <AWE5> pues si
+[02:30:10] [Async Chat Thread - #29/INFO]: <AWE5> es otro server
+[02:30:39] [Server thread/INFO]: Named entity Zombie['Uncommon Zombie'/59158, uuid='9bc4df47-daf2-41e4-a714-4dae586be984', l='ServerLevel[world]', x=-679.21, y=-113.00, z=-471.51, cpos=[-43, -30], tl=295, v=true] died: Uncommon Zombie was slain by Polowas
+[02:30:42] [Async Chat Thread - #29/INFO]: <LouCarrion> Polowas
+[02:30:45] [Async Chat Thread - #29/INFO]: <Polowas> ?
+[02:30:48] [Async Chat Thread - #29/INFO]: <LouCarrion> Polowas
+[02:30:56] [Async Chat Thread - #29/INFO]: <Polowas> bro
+[02:30:58] [Async Chat Thread - #29/INFO]: <LouCarrion> Polowas
+[02:30:59] [Async Chat Thread - #29/INFO]: <LouCarrion> Polowas
+[02:31:00] [Async Chat Thread - #29/INFO]: <LouCarrion> Polowas
+[02:31:00] [Async Chat Thread - #29/INFO]: <LouCarrion> Polowas
+[02:31:01] [Async Chat Thread - #29/INFO]: <LouCarrion> Polowas
+[02:31:02] [Async Chat Thread - #29/INFO]: <LouCarrion> Polowaswq
+[02:32:00] [Async Chat Thread - #29/INFO]: <LouCarrion> granja de totems klk
+[02:32:06] [Async Chat Thread - #29/INFO]: <AWE5> hazla
+[02:32:31] [Server thread/INFO]: Named entity Zombie['Uncommon Zombie'/62242, uuid='68bef34a-a67c-448c-934a-7edce27d1f0b', l='ServerLevel[world]', x=-874.97, y=-96.00, z=-293.20, cpos=[-55, -19], tl=23, v=true] died: Uncommon Zombie was slain by LouCarrion
+[02:32:46] [Server thread/INFO]: Named entity WitherSkeleton['Uncommon Wither Skeleton'/62502, uuid='614ba2c5-ca6c-4eee-8735-56301a18ea28', l='ServerLevel[world]', x=-866.84, y=-93.00, z=-311.28, cpos=[-55, -20], tl=80, v=true] died: Uncommon Wither Skeleton was slain by LouCarrion
+[02:32:57] [Server thread/INFO]: Named entity WitherSkeleton['Uncommon Wither Skeleton'/62558, uuid='1b214d28-464c-4672-ab1a-67021c955ba1', l='ServerLevel[world]', x=-877.01, y=-90.00, z=-330.97, cpos=[-55, -21], tl=263, v=true] died: Uncommon Wither Skeleton was slain by LouCarrion
+[02:33:12] [Server thread/INFO]: Named entity Skeleton['Uncommon Skeleton'/62966, uuid='cf9f5478-2a3c-408b-ac70-260ce64c1d9c', l='ServerLevel[world]', x=-873.36, y=-91.00, z=-321.45, cpos=[-55, -21], tl=180, v=true] died: Uncommon Skeleton was slain by LouCarrion
+[02:34:19] [Server thread/INFO]: Named entity IronGolem['Uncommon Iron Golem'/64368, uuid='34ff9aec-0b7e-4026-b12b-0e19d7ad948f', l='ServerLevel[world]', x=-730.01, y=-93.00, z=-415.87, cpos=[-46, -26], tl=287, v=true] died: Uncommon Iron Golem was slain by LouCarrion
+[02:34:22] [Server thread/INFO]: Named entity EnderMan['Uncommon Enderman'/64626, uuid='dfd74dab-8179-4d05-bdd8-ef0586773ce0', l='ServerLevel[world]', x=-729.23, y=-93.00, z=-415.62, cpos=[-46, -26], tl=196, v=true] died: Uncommon Enderman was slain by LouCarrion
+[02:35:06] [Server thread/INFO]: Named entity Zombie['Uncommon Zombie'/65727, uuid='ea6a0ff3-1a4a-4297-85bd-69b9a290c82b', l='ServerLevel[world]', x=-674.50, y=-109.00, z=-446.50, cpos=[-43, -28], tl=111, v=true] died: Uncommon Zombie was slain by LouCarrion
+[02:35:19] [Server thread/INFO]: Named entity Zombie['Uncommon Zombie'/65885, uuid='0380da1f-ceb4-4f0d-9621-3312a3b3a946', l='ServerLevel[world]', x=-680.04, y=-107.77, z=-445.20, cpos=[-43, -28], tl=220, v=true] died: Uncommon Zombie was slain by LouCarrion
+[02:35:45] [Async Chat Thread - #30/INFO]: <AWE5> buen ping polo
+[02:35:53] [Async Chat Thread - #31/INFO]: <Polowas> ?
+[02:35:58] [Async Chat Thread - #31/INFO]: <AWE5> 456
+[02:36:17] [Server thread/INFO]: Named entity Pillager['Common Pillager'/67275, uuid='347ac4d3-2bd4-4842-b3ef-9d04b2816b5f', l='ServerLevel[world]', x=-717.08, y=-123.00, z=-555.78, cpos=[-45, -35], tl=48, v=true] died: Common Pillager was slain by LouCarrion
+[02:36:23] [Server thread/INFO]: Named entity Drowned['Uncommon Drowned'/67430, uuid='8cb5b1b3-1d11-458c-bf2c-cd99121257fa', l='ServerLevel[world]', x=-731.87, y=-118.00, z=-537.48, cpos=[-46, -34], tl=25, v=true] died: Uncommon Drowned was slain by LouCarrion
