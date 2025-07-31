@@ -726,6 +726,7 @@
       "minecraft:magma_cube": "2025-07-30 19:31:19 +0000",
       "minecraft:endermite": "2025-07-30 02:59:02 +0000",
       "minecraft:spider": "2025-07-29 01:41:49 +0000",
+      "minecraft:piglin_brute": "2025-07-31 01:56:40 +0000",
       "minecraft:zombie": "2025-07-29 01:41:05 +0000",
       "minecraft:creeper": "2025-07-29 01:48:58 +0000",
       "minecraft:drowned": "2025-07-29 04:06:24 +0000",
@@ -2671,9 +2672,10 @@
       "minecraft:crimson_forest": "2025-07-30 02:48:25 +0000",
       "minecraft:nether_wastes": "2025-07-30 03:05:58 +0000",
       "minecraft:soul_sand_valley": "2025-07-30 19:24:28 +0000",
-      "minecraft:basalt_deltas": "2025-07-30 19:14:01 +0000"
+      "minecraft:basalt_deltas": "2025-07-30 19:14:01 +0000",
+      "minecraft:warped_forest": "2025-07-31 01:53:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -2876,6 +2878,84 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-07-30 19:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-31 01:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-31 01:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-07-31 01:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-31 01:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-31 01:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-07-31 01:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-31 01:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-31 01:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-31 01:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-31 01:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-31 01:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-31 01:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-31 01:52:49 +0000"
     },
     "done": true
   },
