@@ -67,3 +67,44 @@
 [01:45:16] [Server thread/INFO]: LouCarrion[/127.34.162.246:41843] logged in with entity id 18121 at ([world_nether]52.53792875915727, 59.0, -525.3000000119209)
 [01:45:30] [Async Chat Thread - #5/INFO]: <LouCarrion> AWE5
 [01:45:38] [Async Chat Thread - #5/INFO]: <LouCarrion> AWE5
+[01:46:07] [Async Chat Thread - #5/INFO]: <LouCarrion> AWE5
+[01:46:29] [Server thread/INFO]: AWE5 issued server command: /tps
+[01:46:39] [Server thread/INFO]: AWE5 issued server command: /tag
+[01:46:45] [Server thread/INFO]: AWE5 issued server command: /tag AWE5 list
+[01:46:48] [Server thread/INFO]: AWE5 issued server command: /tag AWE5 add niga
+[01:46:48] [Server thread/INFO]: [AWE5: Added tag 'niga' to AWE5]
+[01:46:50] [Async Chat Thread - #5/INFO]: <AWE5> asd
+[01:46:55] [Server thread/INFO]: AWE5 issued server command: /tag AWE5 list
+[01:47:00] [Server thread/INFO]: AWE5 issued server command: /list
+[01:47:06] [Async Chat Thread - #5/INFO]: <LouCarrion> y esa skin
+[01:47:08] [Server thread/INFO]: AWE5 issued server command: /tag AWE5 remove niga
+[01:47:08] [Server thread/INFO]: [AWE5: Removed tag 'niga' from AWE5]
+[01:47:12] [Async Chat Thread - #5/INFO]: <LouCarrion> irl
+[01:47:30] [Async Chat Thread - #5/INFO]: <LouCarrion> Polowas
+[01:47:42] [Async Chat Thread - #5/INFO]: <Polowas> ?
+[01:48:01] [Async Chat Thread - #5/INFO]: <LouCarrion> estas en la aldea?
+[01:48:05] [Async Chat Thread - #5/INFO]: <Polowas> si
+[01:48:30] [Async Chat Thread - #5/INFO]: <LouCarrion> entra en el porta y paasame las cords bro
+[01:48:36] [Async Chat Thread - #5/INFO]: <Polowas> no
+[01:48:43] [Async Chat Thread - #5/INFO]: <LouCarrion> dale
+[01:48:56] [Async Chat Thread - #5/INFO]: <AWE5> me aburri
+[01:48:57] [Async Chat Thread - #5/INFO]: <AWE5> gn
+[01:48:59] [Server thread/INFO]: AWE5 lost connection: Disconnected
+[01:48:59] [Server thread/INFO]: AWE5 left the game
+[01:49:00] [Async Chat Thread - #6/INFO]: <Polowas> divide las coords de la base
+[01:49:18] [Async Chat Thread - #6/INFO]: <LouCarrion> olvidalo bro
+[01:49:37] [Server thread/INFO]: LouCarrion lost connection: Disconnected
+[01:49:37] [Server thread/INFO]: LouCarrion left the game
+[01:51:49] [User Authenticator #2/INFO]: UUID of player LouCarrion is 752f2133-4ef6-4a6f-80be-c9a943aca3a3
+[01:51:50] [Server thread/INFO]: LouCarrion joined the game
+[01:51:50] [Server thread/INFO]: LouCarrion[/127.34.162.246:42843] logged in with entity id 26169 at ([world_nether]33.72566435202402, 37.875, -778.9418121262062)
+[01:53:25] [Server thread/INFO]: LouCarrion has completed the challenge [Hot Tourist Destinations]
+[01:53:51] [User Authenticator #3/INFO]: UUID of player AWE5 is 80f7d5f8-a45d-4c53-aa65-f65bc50b2657
+[01:53:53] [Server thread/INFO]: AWE5 joined the game
+[01:53:53] [Server thread/INFO]: AWE5[/127.220.99.169:52381] logged in with entity id 28860 at ([world]-1025.7922422513416, 78.0, 81.69999998807907)
+[01:54:28] [Async Chat Thread - #8/INFO]: <AWE5> pologuas rompio el portal
+[01:54:33] [Async Chat Thread - #8/INFO]: <AWE5> y no puedo entrar
+[01:54:50] [Async Chat Thread - #8/INFO]: <Polowas> solo dile que no lo quieres hacer
+[01:54:52] [Async Chat Thread - #8/INFO]: <Polowas> y ya
+[01:54:59] [Async Chat Thread - #8/INFO]: <AWE5> arregla lo que rompiste
+[01:55:20] [Async Chat Thread - #9/INFO]: <AWE5> y este cofre escondido
