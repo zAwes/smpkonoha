@@ -2799,9 +2799,33 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "crying_obsidian": "2025-07-30 19:28:07 +0000"
+      "bastion": "2025-07-30 19:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-07-30 19:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-30 19:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-30 19:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-30 19:14:25 +0000"
     },
     "done": true
   },
@@ -2817,43 +2841,31 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-07-30 19:13:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-07-30 19:28:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-07-30 19:28:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-07-30 19:45:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-07-30 19:41:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-07-30 19:13:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 19:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 19:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 19:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-30 19:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-30 19:22:19 +0000"
     },
@@ -2865,63 +2877,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-07-30 19:22:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-07-30 19:45:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-07-30 19:22:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-07-30 19:14:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-07-30 19:41:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-07-30 19:22:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-07-30 19:09:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-07-30 19:28:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
+  "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
-      "has_nether_wart": "2025-07-30 19:14:25 +0000"
+      "has_nether_brick": "2025-07-30 19:28:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-07-30 19:22:19 +0000"
+      "crying_obsidian": "2025-07-30 19:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-30 19:28:07 +0000"
     },
     "done": true
   },
@@ -2931,9 +2907,33 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-30 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-30 19:41:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-07-30 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-30 19:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-30 19:45:16 +0000"
     },
     "done": true
   },

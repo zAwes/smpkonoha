@@ -1,137 +1,63 @@
-[19:07:54] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[19:07:54] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[19:07:54] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[19:07:55] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[19:07:55] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+[01:25:25] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[01:25:25] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[01:25:25] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:25:26] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[01:25:26] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
  - PlugManX (2.4.1), ViaBackwards (5.4.2), ViaVersion (5.4.2)
-[19:08:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:08:04] [ServerMain/INFO]: Loaded 1291 recipes
-[19:08:04] [ServerMain/INFO]: Loaded 1522 advancements
-[19:08:04] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[19:08:04] [Server thread/INFO]: Loading properties
-[19:08:04] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[19:08:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[19:08:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:08:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:08:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[19:08:06] [Server thread/INFO]: Default game type: SURVIVAL
-[19:08:06] [Server thread/INFO]: Generating keypair
-[19:08:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:08:07] [Server thread/INFO]: Using epoll channel type
-[19:08:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[19:08:07] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[19:08:08] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
-[19:08:08] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
-[19:08:09] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[19:08:09] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[19:08:11] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[19:08:11] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[19:08:12] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
-[19:08:12] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v2.4.1
-[19:08:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:08:12] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
-[19:08:12] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[19:08:12] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
-[19:08:12] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
-[19:08:12] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
-[19:08:12] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/TheBlackEntity/PlugMan
-[19:08:12] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[19:08:12] [Server thread/INFO]: Preparing level "world"
-[19:08:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:08:15] [Server thread/INFO]: Time elapsed: 1524 ms
-[19:08:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:08:16] [Server thread/INFO]: Time elapsed: 827 ms
-[19:08:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:08:16] [Server thread/INFO]: Time elapsed: 323 ms
-[19:08:16] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
-[19:08:16] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[19:08:16] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
-[19:08:16] [Server thread/INFO]: [spark] Starting background profiler...
-[19:08:17] [Server thread/INFO]: Done preparing level "world" (4.962s)
-[19:08:17] [Server thread/INFO]: Running delayed init tasks
-[19:08:17] [Server thread/INFO]: Done (25.385s)! For help, type "help"
-[19:08:17] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[19:08:17] [Server thread/INFO]: Timings Reset
-[19:08:40] [User Authenticator #0/INFO]: UUID of player AWE5 is 80f7d5f8-a45d-4c53-aa65-f65bc50b2657
-[19:08:42] [Server thread/INFO]: AWE5 joined the game
-[19:08:42] [Server thread/INFO]: AWE5[/127.220.99.169:34703] logged in with entity id 40 at ([world_nether]606.948704484371, 56.0, 246.9483055414621)
-[19:09:14] [Server thread/INFO]: AWE5 has made the advancement [Those Were the Days]
-[19:10:29] [User Authenticator #1/INFO]: UUID of player LouCarrion is 752f2133-4ef6-4a6f-80be-c9a943aca3a3
-[19:10:30] [Server thread/INFO]: LouCarrion joined the game
-[19:10:30] [Server thread/INFO]: LouCarrion[/127.34.162.246:54555] logged in with entity id 358 at ([world]-1020.5974082930122, 77.0, 60.69999998807907)
-[19:11:53] [Server thread/INFO]: AWE5 has completed the challenge [Hot Tourist Destinations]
-[19:13:43] [Server thread/INFO]: AWE5 has made the advancement [War Pigs]
-[19:15:23] [Server thread/INFO]: LouCarrion has made the advancement [Those Were the Days]
-[19:18:48] [Server thread/INFO]: AWE5 issued server command: /difficulty
-[19:18:52] [Server thread/INFO]: AWE5 issued server command: /difficulty hard
-[19:18:52] [Server thread/INFO]: [AWE5: The difficulty has been set to Hard]
-[19:23:40] [Async Chat Thread - #3/INFO]: <AWE5> LOS DUPES TAN APAGADOS
-[19:23:47] [Async Chat Thread - #3/INFO]: <LouCarrion> por
-[19:23:54] [Async Chat Thread - #3/INFO]: <AWE5> PQ NO LO CONFIGURE ACA
-[19:24:02] [Async Chat Thread - #3/INFO]: <LouCarrion> xd
-[19:24:20] [Async Chat Thread - #3/INFO]: <LouCarrion> q salta pa tra
-[19:24:42] [Async Chat Thread - #3/INFO]: <LouCarrion> fort
-[19:24:47] [Async Chat Thread - #3/INFO]: <AWE5> cor
-[19:24:47] [Async Chat Thread - #3/INFO]: <LouCarrion> tengo
-[19:25:10] [Async Chat Thread - #3/INFO]: <LouCarrion> 25 -658
-[19:25:17] [Server thread/INFO]: LouCarrion has made the advancement [A Terrible Fortress]
-[19:25:47] [Server thread/INFO]: LouCarrion has made the advancement [Into Fire]
-[19:28:07] [Server thread/INFO]: AWE5 has made the advancement [Who is Cutting Onions?]
-[19:32:24] [Async Chat Thread - #4/INFO]: <AWE5> asd
-[19:32:26] [Server thread/INFO]: [Not Secure] [Server] asd
-[19:34:07] [Async Chat Thread - #6/INFO]: <LouCarrion> vebgo
-[19:34:09] [Server thread/INFO]: LouCarrion lost connection: Disconnected
-[19:34:09] [Server thread/INFO]: LouCarrion left the game
-[19:36:16] [User Authenticator #2/INFO]: UUID of player Polowas is a2b56618-1aef-407b-afe8-1edfbeb53a68
-[19:36:19] [Server thread/INFO]: Polowas joined the game
-[19:36:19] [Server thread/INFO]: Polowas[/127.22.55.253:50755] logged in with entity id 7773 at ([world]-647.3000000119209, -101.0, -397.361047048262)
-[19:36:25] [Async Chat Thread - #8/INFO]: <AWE5> <LouCarrion> 25 -658
-[19:36:32] [Async Chat Thread - #8/INFO]: <Polowas> ?
-[19:36:36] [Async Chat Thread - #8/INFO]: <AWE5> fort
-[19:37:39] [Server thread/INFO]: Named entity Drowned['Uncommon Drowned'/8518, uuid='d948b81a-fcc3-4dda-9134-a580bd356a52', l='ServerLevel[world]', x=-655.55, y=-110.00, z=-436.62, cpos=[-41, -28], tl=109, v=true] died: Uncommon Drowned was slain by Polowas
-[19:37:39] [Server thread/WARN]: Skipping Entity with id 
-[19:39:02] [Server thread/INFO]: Named entity Skeleton['Epic Skeleton'/8609, uuid='2c5f56c3-ee75-4fca-9739-80f0d7144b09', l='ServerLevel[world]', x=-665.67, y=-117.00, z=-480.67, cpos=[-42, -31], tl=1637, v=true] died: Epic Skeleton was slain by Polowas
-[19:41:03] [Server thread/INFO]: AWE5 has made the advancement [A Terrible Fortress]
-[19:41:07] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>PotionContents[potion=Optional.empty, customColor=Optional[6184036], customEffects=[effect.minecraft.mining_fatigue x 2, Duration: 80, effect.minecraft.blindness, Duration: 80, effect.minecraft.wither, Duration: 80]]}' to item: 'Item stack with stack size of 99 was larger than maximum: 64'
-[19:41:51] [Server thread/INFO]: AWE5 has made the advancement [Into Fire]
-[19:42:35] [Server thread/INFO]: Named entity Ravager['Epic Ravager'/10232, uuid='d2138cc3-83c8-495c-8939-a384f2071531', l='ServerLevel[world]', x=-678.16, y=-103.95, z=-386.08, cpos=[-43, -25], tl=1760, v=true] died: Epic Ravager was slain by Polowas
-[19:42:45] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/10214, uuid='ab23d473-b114-4271-8fa3-a8d4d9482a8d', l='ServerLevel[world]', x=-679.59, y=-104.00, z=-374.15, cpos=[-43, -24], tl=1972, v=true] died: Rare Pillager was slain by Polowas
-[19:43:22] [Server thread/INFO]: [Not Secure] [Server] asd
-[19:43:48] [Server thread/WARN]: Skipping Entity with id 
-[19:43:55] [Server thread/INFO]: Named entity Creeper['Uncommon Rocklops'/11071, uuid='f0467533-88ed-4483-9a34-ed9f3290b544', l='ServerLevel[world]', x=-709.67, y=-100.00, z=-373.44, cpos=[-45, -24], tl=136, v=true] died: Uncommon Rocklops was slain by Polowas
-[19:45:11] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>PotionContents[potion=Optional.empty, customColor=Optional[6184036], customEffects=[effect.minecraft.mining_fatigue x 2, Duration: 80, effect.minecraft.blindness, Duration: 80, effect.minecraft.wither, Duration: 80]]}' to item: 'Item stack with stack size of 99 was larger than maximum: 64'
-[19:46:12] [Server thread/INFO]: Named entity ZombifiedPiglin['Uncommon Zombified Piglin'/11440, uuid='7135855b-231f-4338-a8b1-3e4beb120218', l='ServerLevel[world]', x=-677.65, y=-104.00, z=-386.65, cpos=[-43, -25], tl=1604, v=true] died: Uncommon Zombified Piglin was slain by Polowas
-[19:47:15] [Server thread/INFO]: Named entity Pillager['Uncommon Pillager'/11642, uuid='559de3c1-3e34-402d-9cae-f6a78d59a5ac', l='ServerLevel[world]', x=-679.73, y=-104.00, z=-384.73, cpos=[-43, -25], tl=2277, v=true] died: Uncommon Pillager was slain by Polowas
-[19:47:24] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/11735, uuid='04d5388e-3e37-4ec8-8850-18e51f8aed66', l='ServerLevel[world]', x=-677.30, y=-104.00, z=-388.63, cpos=[-43, -25], tl=2173, v=true] died: Rare Pillager was slain by Polowas
-[19:47:41] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/11582, uuid='5dfc989f-3eae-4360-ab17-d2a223ca667c', l='ServerLevel[world]', x=-678.20, y=-103.69, z=-371.74, cpos=[-43, -24], tl=3007, v=true] died: Rare Pillager was slain by Polowas
-[19:47:44] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/11417, uuid='95855c87-a60e-48a3-9f4c-b966cc799db3', l='ServerLevel[world]', x=-673.81, y=-104.00, z=-368.36, cpos=[-43, -24], tl=3506, v=true] died: Rare Pillager was slain by Polowas
-[19:48:18] [Server thread/INFO]: Polowas has reached the goal [Postmortal]
-[19:49:18] [Server thread/INFO]: Named entity Zombie['Epic Zombie'/13002, uuid='0a305884-93fa-42f0-b311-5028855e88bc', l='ServerLevel[world]', x=-666.61, y=-116.00, z=-480.64, cpos=[-42, -31], tl=1251, v=true] died: Epic Zombie was slain by Polowas
-[19:50:51] [Server thread/INFO]: Named entity Slime['Uncommon Slime'/14050, uuid='27d29a39-66f8-471f-8833-505792121465', l='ServerLevel[world]', x=-662.37, y=-108.00, z=-423.19, cpos=[-42, -27], tl=160, v=true] died: Uncommon Slime was slain by Polowas
-[19:51:40] [Server thread/INFO]: Named entity Zombie['Uncommon Zombie'/14554, uuid='11df7730-a0bb-4699-b602-0eab9f07a9a9', l='ServerLevel[world]', x=-662.46, y=-105.00, z=-372.15, cpos=[-42, -24], tl=243, v=true] died: Uncommon Zombie was slain by Polowas
-[19:52:35] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/14928, uuid='3379e909-19bb-412f-9a93-632cc01866b1', l='ServerLevel[world]', x=-717.21, y=-98.50, z=-366.33, cpos=[-45, -23], tl=410, v=true] died: Rare Pillager was slain by Polowas
-[19:52:55] [Server thread/INFO]: Named entity Pillager['Uncommon Pillager'/15105, uuid='20323665-7ebf-4bcf-8aaa-b26bb128430a', l='ServerLevel[world]', x=-720.41, y=-98.00, z=-368.62, cpos=[-46, -24], tl=353, v=true] died: Uncommon Pillager was slain by Polowas
-[19:53:20] [Server thread/INFO]: Named entity Skeleton['Uncommon Skeleton'/15227, uuid='0d1b2de8-4da1-47d7-b2b0-c436efe17aa7', l='ServerLevel[world]', x=-723.72, y=-97.00, z=-371.06, cpos=[-46, -24], tl=463, v=true] died: Uncommon Skeleton was slain by Polowas
-[19:54:00] [Server thread/INFO]: Named entity Skeleton['Uncommon Skeleton'/15473, uuid='8db045f6-2f64-4da2-9de6-da3fe68ea282', l='ServerLevel[world]', x=-755.77, y=-94.00, z=-389.58, cpos=[-48, -25], tl=185, v=true] died: Uncommon Skeleton was slain by Polowas
-[19:54:01] [Server thread/WARN]: Skipping Entity with id 
-[19:54:23] [Server thread/INFO]: Polowas withered away while fighting Uncommon Zombified Piglin
-[19:57:11] [Server thread/INFO]: Polowas was killed by magic while trying to escape Uncommon Drowned
-[19:57:26] [Async Chat Thread - #11/INFO]: <AWE5> bro
-[19:57:58] [Async Chat Thread - #11/INFO]: <AWE5> tenes tus cosas?
-[19:58:07] [Server thread/WARN]: Skipping Entity with id 
-[19:58:38] [Server thread/INFO]: AWE5 lost connection: Disconnected
-[19:58:38] [Server thread/INFO]: AWE5 left the game
-[20:01:28] [Server thread/INFO]: Named entity Drowned['Uncommon Drowned'/18562, uuid='c4225229-3557-499c-9387-36cc58653a98', l='ServerLevel[world]', x=-779.00, y=-90.72, z=-382.87, cpos=[-49, -24], tl=1764, v=true] died: Uncommon Drowned was slain by Polowas
-[20:02:27] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>PotionContents[potion=Optional.empty, customColor=Optional[6184036], customEffects=[effect.minecraft.mining_fatigue x 2, Duration: 80, effect.minecraft.levitation x 5, Duration: 40]]}' to item: 'Item stack with stack size of 99 was larger than maximum: 64'
-[20:05:27] [Server thread/INFO]: Named entity Pillager['Rare Pillager'/18887, uuid='eb3d99a1-6515-4d18-a4dd-ceb958cdf659', l='ServerLevel[world]', x=-930.47, y=-89.00, z=-294.29, cpos=[-59, -19], tl=3672, v=true] died: Rare Pillager was squashed by a falling block
-[20:11:17] [Server thread/WARN]: Polowas moved too quickly! 36.46143929024788,-7.0,31.136335812439427
-[20:11:52] [Server thread/INFO]: Polowas was killed by magic while trying to escape Legendary Pillager
-[20:16:51] [Server thread/INFO]: Villager Villager['Fletcher'/23276, uuid='b38eb0ba-b180-4956-a194-dba423f5c7d0', l='ServerLevel[world]', x=-1032.30, y=76.00, z=74.30, cpos=[-65, 4], tl=683268, v=true] died, message: 'Fletcher was slain by Zombie'
-[20:19:54] [Server thread/INFO]: Polowas lost connection: Disconnected
-[20:19:54] [Server thread/INFO]: Polowas left the game
-[20:25:35] [User Authenticator #3/INFO]: UUID of player LouCarrion is 752f2133-4ef6-4a6f-80be-c9a943aca3a3
-[20:25:36] [Server thread/INFO]: LouCarrion joined the game
-[20:25:36] [Server thread/INFO]: LouCarrion[/127.34.162.246:52247] logged in with entity id 23878 at ([world_nether]55.599141349548056, 54.0, -553.3000000119209)
-[20:27:38] [Server thread/INFO]: LouCarrion lost connection: Disconnected
-[20:27:38] [Server thread/INFO]: LouCarrion left the game
-[20:37:02] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[01:25:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:25:35] [ServerMain/INFO]: Loaded 1291 recipes
+[01:25:36] [ServerMain/INFO]: Loaded 1522 advancements
+[01:25:36] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:25:36] [Server thread/INFO]: Loading properties
+[01:25:36] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[01:25:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:25:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:25:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:25:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[01:25:38] [Server thread/INFO]: Default game type: SURVIVAL
+[01:25:38] [Server thread/INFO]: Generating keypair
+[01:25:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:25:38] [Server thread/INFO]: Using epoll channel type
+[01:25:38] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:25:38] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[01:25:39] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
+[01:25:39] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
+[01:25:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[01:25:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:25:42] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[01:25:42] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[01:25:44] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
+[01:25:44] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v2.4.1
+[01:25:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:25:44] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
+[01:25:44] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[01:25:44] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[01:25:44] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[01:25:44] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[01:25:44] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/TheBlackEntity/PlugMan
+[01:25:44] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[01:25:44] [Server thread/INFO]: Preparing level "world"
+[01:25:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:25:46] [Server thread/INFO]: Time elapsed: 1215 ms
+[01:25:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:25:47] [Server thread/INFO]: Time elapsed: 1022 ms
+[01:25:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:25:47] [Server thread/INFO]: Time elapsed: 73 ms
+[01:25:47] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[01:25:47] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[01:25:47] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
+[01:25:47] [Server thread/INFO]: [spark] Starting background profiler...
+[01:25:48] [Server thread/INFO]: Done preparing level "world" (4.509s)
+[01:25:48] [Server thread/INFO]: Running delayed init tasks
+[01:25:48] [Server thread/INFO]: Done (24.973s)! For help, type "help"
+[01:25:48] [Server thread/INFO]: Timings Reset
+[01:25:48] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:26:23] [User Authenticator #0/INFO]: UUID of player AWE5 is 80f7d5f8-a45d-4c53-aa65-f65bc50b2657
+[01:26:32] [Server thread/INFO]: AWE5 joined the game
+[01:26:32] [Server thread/INFO]: AWE5[/127.220.99.169:50741] logged in with entity id 40 at ([world]-980.6003851836286, 77.0, 63.339206539136086)
+[01:26:44] [User Authenticator #0/INFO]: UUID of player Polowas is a2b56618-1aef-407b-afe8-1edfbeb53a68
+[01:26:47] [Server thread/INFO]: Polowas joined the game
+[01:26:47] [Server thread/INFO]: Polowas[/127.22.55.253:53093] logged in with entity id 260 at ([world]-1019.757147025694, 77.0, 56.63582944995099)
+[01:27:59] [Async Chat Thread - #1/INFO]: <Polowas> prende el dupper
+[01:29:58] [Server thread/INFO]: AWE5 issued server command: /difi
+[01:30:00] [Server thread/INFO]: AWE5 issued server command: /difficulty
